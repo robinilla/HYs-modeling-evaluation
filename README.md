@@ -22,11 +22,11 @@ The following files are provided in order to make reproducible the analysis deve
 
 There are also provided the scripts used for generating the figures:
 
-- *Figure 2.R*: Data code used for doing figure 2. Data inputs are the Rdata model outputs for all species and approaches. All model results per species and data scenario might be in an independent folder. There are also provided the icons of the species for reproducibility.
+- *Figure 2.R*: Data code used to reproduce figure 2. Data inputs are the Rdata model outputs for all species and approaches. All model results per species and data scenario might be in an independent folder. There are also provided the icons of the species for reproducibility.
 
-- *Figure 3.R*: Data code used for doing figure 3. Data inputs are 1) RAW data and 2) the predictions of the results in both spatial resolution (municipality and grid).
+- *Figure 3.R*: Data code used to reproduce figure 3. Data inputs are 1) RAW data and 2) the predictions of the results in both spatial resolution (municipality and grid).
 
-- *Figure 4.R*: Data code used for doing figure 4. Data inputs are  1) RAW data and 2) the predictions of the results at municipality resolution scale.
+- *Figure 4.R*: Data code used to reproduce figure 4. Data inputs are  1) RAW data and 2) the predictions of the results at municipality resolution scale.
 
 ## Citation
 - Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. *Journal of Applied Ecology.*
