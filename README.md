@@ -17,8 +17,8 @@ The following files are provided in order to make reproducible the analysis deve
  	Cc: HYs data for Capreolus capreolus
  	Vv: HYs data for Vulpes vulpes
 - data_modeling_predict.gpkg comprises two layers for predicting at the different spatial resolutions. municipality level and at 2 x 2 km grid cell. 
-	- Municipality spatial resolution: municipalities of Spain have been downloaded from [IGN Spain](https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=LILIM). Spatial statistics of the covariates are already calculated on this layer. 
-	- The 2 x 2 km grid cell is one fifth of the European Environment Agency 10 x 10 km grid cell available at: [EEA] (https://www.eea.europa.eu/en/datahub/datahubitem-view/3c362237-daa4-45e2-8c16-aaadfb1a003b?activeAccordion=1238).
+	- Municipality spatial resolution: municipalities of Spain have been downloaded from ([IGN Spain](https://centrodedescargas.cnig.es/CentroDescargas/catalogo.do?Serie=LILIM)). Spatial statistics of the covariates are already calculated on this layer. 
+	- The 2 x 2 km grid cell is one fifth of the European Environment Agency 10 x 10 km grid cell available at: ([EEA] (https://www.eea.europa.eu/en/datahub/datahubitem-view/3c362237-daa4-45e2-8c16-aaadfb1a003b?activeAccordion=1238)).
 	
 	Both files contain the same information: 
 		prec: mean precipitation value of municipality/cell.
