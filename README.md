@@ -1,7 +1,7 @@
 # Title: Evaluation of modeling approaches to account for hunting data variability across large spatial scales 
 ## Submitted to: Journal of Applied Ecology
 ## Date: 29/10/2025 (dd/mm/yyyy)
-## Authors: Not provided until the article is accepted for publishing.
+#### Authors: Not provided until the article is accepted for publishing.
 
 The following files are provided in order to make reproducible the analysis developed:
 - "models_predictions_code.R": It is a script which contains all the modeling approaches developed in the research article. Note that for running the analysis is also needed data input as well as predicion layers. Models results obtained in this step will be used as input data for making the figures.
@@ -27,3 +27,6 @@ There are also provided the scripts used for generating the figures:
 - Figure 3.R: Data code used for doing figure 3. Data inputs are 1) RAW data and 2) the predictions of the results in both spatial resolution (municipality and grid).
 
 - Figure 4.R: Data code used for doing figure 4. Data inputs are  1) RAW data and 2) the predictions of the results at municipality resolution scale.
+
+#Citation
+- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. 
