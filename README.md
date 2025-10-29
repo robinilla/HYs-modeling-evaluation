@@ -29,4 +29,4 @@ There are also provided the scripts used for generating the figures:
 - *Figure 4.R*: Data code used for doing figure 4. Data inputs are  1) RAW data and 2) the predictions of the results at municipality resolution scale.
 
 ## Citation
-- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. 
+- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. *Journal of Applied Ecology.*
