@@ -1,6 +1,6 @@
 # Title: Evaluation of modeling approaches to account for hunting data variability across large spatial scales 
 #### Submitted to: Journal of Applied Ecology
-#### Date: 29/10/2025 (dd/mm/yyyy)
+#### Date: 30/10/2025 (dd/mm/yyyy)
 #### Authors: Not provided until the article is accepted for publishing.
 
 The following files are provided in order to make reproducible the analysis developed:
