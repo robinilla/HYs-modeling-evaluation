@@ -2,8 +2,8 @@
 # Title: Evaluation of modeling approaches to account for hunting data 
 # variability across large spatial scales.
 # Code provided for repoducibility of modeling approaches
-# Submitted to: Journal of Applied Ecology
-# Date: 11/02/2025 (mm/dd/yyyy)
+# Submitted to: Science of Total Environment
+# Date: 11/07/2025 (mm/dd/yyyy)
 # Authors: They will be provided after the acceptance of the manuscript.
 ## ---------------------
 
