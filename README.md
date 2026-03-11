@@ -18,4 +18,4 @@ The following files are provided in order to make reproducible the analysis deve
 	Vv: HYs data for Vulpes vulpes.
 
 ## Citation
-- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. *Journal of Applied Ecology.*
+- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. *Diversity and Distributions*
