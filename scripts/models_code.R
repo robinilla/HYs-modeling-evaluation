@@ -1,6 +1,6 @@
 ## ---------------------
 # Title: Evaluation of modeling approaches to account for hunting data 
-# variability across large spatial scales.
+# idiosyncrasies across large spatial scales.
 # Code provided for repoducibility of modeling approaches
 # Submitted to: Diversity and Distribution
 # Date: 12/03/2025 (mm/dd/yyyy)
