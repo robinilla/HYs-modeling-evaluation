@@ -1,6 +1,6 @@
-# Title: Evaluation of modeling approaches to account for hunting data variability across large spatial scales 
-#### Submitted to: Diversity and Distributions
-#### Date: 03/12/2025 (mm/dd/yyyy)
+# Title: Evaluation of modeling approaches to account for hunting data idiosyncrasies across large spatial scales 
+#### Current journal submission: Diversity and Distributions
+#### Submission date: 03 Dec 2025
 #### Authors: Not provided until the article is accepted for publishing.
 
 The following files are provided in order to make reproducible the analysis developed:
@@ -17,5 +17,9 @@ The following files are provided in order to make reproducible the analysis deve
 	Cc: HYs data for Capreolus capreolus;
 	Vv: HYs data for Vulpes vulpes.
 
+To ensure transparency and avoid any potential misunderstanding, an earlier version of this manuscript was previously submitted to:
+- *Journal of Applied Ecology*: submitted 02 Nov 2025; rejected 03 Nov 2025.
+- *Science of the Total Environment*: submitted 7 Nov 2025; rejected 15 Nov 2025.
+
 ## Citation
-- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data variability across large spatial scales. *Diversity and Distributions*
+- Authors. (submitted, 2025). Evaluation of modeling approaches to account for hunting data idiosyncrasies across large spatial scales. *Diversity and Distributions*
