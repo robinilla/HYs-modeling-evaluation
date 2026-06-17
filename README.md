@@ -18,7 +18,6 @@ The following files are provided in order to make reproducible the analysis deve
 	Vv: HYs data for Vulpes vulpes.
 
 To ensure transparency and avoid any potential misunderstanding, an earlier version of this manuscript was previously submitted to:
-- *Journal of Applied Ecology*: submitted 02 Nov 2025; rejected 03 Nov 2025.
 - *Science of the Total Environment*: submitted 7 Nov 2025; rejected 15 Nov 2025.
 
 ## Citation
